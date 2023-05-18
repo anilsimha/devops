@@ -1,4 +1,4 @@
 ## GIT Learn
 
-** Learning GIT is Awesome
+** Learning GIT is Awesome!
 * Class 3 recording
